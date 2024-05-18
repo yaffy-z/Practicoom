@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.api\\models\\workerpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|solutionrelative:workersmanagment.api\\models\\workerpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716F4009-4A72-4891-A7A2-6E838554F7E0}|WorkersManagment.Core\\WorkersManagment.Core.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.core\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716F4009-4A72-4891-A7A2-6E838554F7E0}|WorkersManagment.Core\\WorkersManagment.Core.csproj|solutionrelative:workersmanagment.core\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3157BD5D-745A-4F0F-8FD7-776470C055E8}|OrkersManagment.Data\\WorkersManagment.Data.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\orkersmanagment.data\\repositories\\workerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3157BD5D-745A-4F0F-8FD7-776470C055E8}|OrkersManagment.Data\\WorkersManagment.Data.csproj|solutionrelative:orkersmanagment.data\\repositories\\workerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.api\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|solutionrelative:workersmanagment.api\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716F4009-4A72-4891-A7A2-6E838554F7E0}|WorkersManagment.Core\\WorkersManagment.Core.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.core\\models\\positionworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716F4009-4A72-4891-A7A2-6E838554F7E0}|WorkersManagment.Core\\WorkersManagment.Core.csproj|solutionrelative:workersmanagment.core\\models\\positionworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48835561-8B7C-483E-93AD-7B6F722A3F74}|WorkersManagment.Service\\WorkersManagment.Service.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.service\\services\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48835561-8B7C-483E-93AD-7B6F722A3F74}|WorkersManagment.Service\\WorkersManagment.Service.csproj|solutionrelative:workersmanagment.service\\services\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3157BD5D-745A-4F0F-8FD7-776470C055E8}|OrkersManagment.Data\\WorkersManagment.Data.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\orkersmanagment.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3157BD5D-745A-4F0F-8FD7-776470C055E8}|OrkersManagment.Data\\WorkersManagment.Data.csproj|solutionrelative:orkersmanagment.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.api\\models\\positionworkerpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|solutionrelative:workersmanagment.api\\models\\positionworkerpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.api\\models\\workeraddmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|solutionrelative:workersmanagment.api\\models\\workeraddmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.api\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|solutionrelative:workersmanagment.api\\controllers\\positionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716F4009-4A72-4891-A7A2-6E838554F7E0}|WorkersManagment.Core\\WorkersManagment.Core.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.core\\services\\ipositionworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716F4009-4A72-4891-A7A2-6E838554F7E0}|WorkersManagment.Core\\WorkersManagment.Core.csproj|solutionrelative:workersmanagment.core\\services\\ipositionworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48835561-8B7C-483E-93AD-7B6F722A3F74}|WorkersManagment.Service\\WorkersManagment.Service.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.service\\services\\positionworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48835561-8B7C-483E-93AD-7B6F722A3F74}|WorkersManagment.Service\\WorkersManagment.Service.csproj|solutionrelative:workersmanagment.service\\services\\positionworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48835561-8B7C-483E-93AD-7B6F722A3F74}|WorkersManagment.Service\\WorkersManagment.Service.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.service\\services\\positionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48835561-8B7C-483E-93AD-7B6F722A3F74}|WorkersManagment.Service\\WorkersManagment.Service.csproj|solutionrelative:workersmanagment.service\\services\\positionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716F4009-4A72-4891-A7A2-6E838554F7E0}|WorkersManagment.Core\\WorkersManagment.Core.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.core\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716F4009-4A72-4891-A7A2-6E838554F7E0}|WorkersManagment.Core\\WorkersManagment.Core.csproj|solutionrelative:workersmanagment.core\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3157BD5D-745A-4F0F-8FD7-776470C055E8}|OrkersManagment.Data\\WorkersManagment.Data.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\orkersmanagment.data\\repositories\\positionworkerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3157BD5D-745A-4F0F-8FD7-776470C055E8}|OrkersManagment.Data\\WorkersManagment.Data.csproj|solutionrelative:orkersmanagment.data\\repositories\\positionworkerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3157BD5D-745A-4F0F-8FD7-776470C055E8}|OrkersManagment.Data\\WorkersManagment.Data.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\orkersmanagment.data\\repositories\\positionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3157BD5D-745A-4F0F-8FD7-776470C055E8}|OrkersManagment.Data\\WorkersManagment.Data.csproj|solutionrelative:orkersmanagment.data\\repositories\\positionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|solutionrelative:workersmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3157BD5D-745A-4F0F-8FD7-776470C055E8}|OrkersManagment.Data\\WorkersManagment.Data.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\orkersmanagment.data\\workersmanagment.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3157BD5D-745A-4F0F-8FD7-776470C055E8}|OrkersManagment.Data\\WorkersManagment.Data.csproj|solutionrelative:orkersmanagment.data\\workersmanagment.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.api\\mapping\\postmodelsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|solutionrelative:workersmanagment.api\\mapping\\postmodelsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.api\\models\\positionpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58B852D-6D21-4E1F-8C39-8B3534E1A700}|WorkersManagment.Api\\WorkersManagment.Api.csproj|solutionrelative:workersmanagment.api\\models\\positionpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716F4009-4A72-4891-A7A2-6E838554F7E0}|WorkersManagment.Core\\WorkersManagment.Core.csproj|c:\\users\\user\\desktop\\downloads\\proj\\workersmanagment.api\\workersmanagment.core\\repositories\\ipositionworkerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716F4009-4A72-4891-A7A2-6E838554F7E0}|WorkersManagment.Core\\WorkersManagment.Core.csproj|solutionrelative:workersmanagment.core\\repositories\\ipositionworkerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 332,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0d88d125-84f9-49ef-ae2f-e54b55205e08}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\OrkersManagment.Data\\Repositories\\WorkerRepository.cs",
+              "RelativeDocumentMoniker": "OrkersManagment.Data\\Repositories\\WorkerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\OrkersManagment.Data\\Repositories\\WorkerRepository.cs",
+              "RelativeToolTip": "OrkersManagment.Data\\Repositories\\WorkerRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:43:58.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Api\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "WorkersManagment.Api\\Controllers\\WorkerController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAIA9wCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:12:16.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Core\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Core\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Core\\Models\\Worker.cs",
+              "RelativeToolTip": "WorkersManagment.Core\\Models\\Worker.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAnwBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:49:51.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Models\\WorkerPostModel.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Api\\Models\\WorkerPostModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Models\\WorkerPostModel.cs",
+              "RelativeToolTip": "WorkersManagment.Api\\Models\\WorkerPostModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:02:31.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Service\\Services\\WorkerService.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Service\\Services\\WorkerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Service\\Services\\WorkerService.cs",
+              "RelativeToolTip": "WorkersManagment.Service\\Services\\WorkerService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAApwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:32:37.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PositionWorker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Core\\Models\\PositionWorker.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Core\\Models\\PositionWorker.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Core\\Models\\PositionWorker.cs",
+              "RelativeToolTip": "WorkersManagment.Core\\Models\\PositionWorker.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:03:31.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\OrkersManagment.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "OrkersManagment.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\OrkersManagment.Data\\DataContext.cs",
+              "RelativeToolTip": "OrkersManagment.Data\\DataContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA/wBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:43:03.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PositionWorkerPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Models\\PositionWorkerPostModel.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Api\\Models\\PositionWorkerPostModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Models\\PositionWorkerPostModel.cs",
+              "RelativeToolTip": "WorkersManagment.Api\\Models\\PositionWorkerPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:02:14.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkerAddModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Models\\WorkerAddModel.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Api\\Models\\WorkerAddModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Models\\WorkerAddModel.cs",
+              "RelativeToolTip": "WorkersManagment.Api\\Models\\WorkerAddModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:58:34.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PositionsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Controllers\\PositionsController.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Api\\Controllers\\PositionsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Controllers\\PositionsController.cs",
+              "RelativeToolTip": "WorkersManagment.Api\\Controllers\\PositionsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:47:27.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PositionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Service\\Services\\PositionService.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Service\\Services\\PositionService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Service\\Services\\PositionService.cs",
+              "RelativeToolTip": "WorkersManagment.Service\\Services\\PositionService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:32:49.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Core\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Core\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Core\\Models\\Position.cs",
+              "RelativeToolTip": "WorkersManagment.Core\\Models\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:33:32.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPositionWorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Core\\Services\\IPositionWorkerService.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Core\\Services\\IPositionWorkerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Core\\Services\\IPositionWorkerService.cs",
+              "RelativeToolTip": "WorkersManagment.Core\\Services\\IPositionWorkerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:10:14.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PositionWorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Service\\Services\\PositionWorkerService.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Service\\Services\\PositionWorkerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Service\\Services\\PositionWorkerService.cs",
+              "RelativeToolTip": "WorkersManagment.Service\\Services\\PositionWorkerService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:44:14.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkersManagment.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\OrkersManagment.Data\\WorkersManagment.Data.csproj",
+              "RelativeDocumentMoniker": "OrkersManagment.Data\\WorkersManagment.Data.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\OrkersManagment.Data\\WorkersManagment.Data.csproj",
+              "RelativeToolTip": "OrkersManagment.Data\\WorkersManagment.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T06:30:45.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PostModelsMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Mapping\\PostModelsMappingProfile.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Api\\Mapping\\PostModelsMappingProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Mapping\\PostModelsMappingProfile.cs",
+              "RelativeToolTip": "WorkersManagment.Api\\Mapping\\PostModelsMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:00:55.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Program.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Program.cs",
+              "RelativeToolTip": "WorkersManagment.Api\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAtwB0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:54:45.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PositionPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Models\\PositionPostModel.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Api\\Models\\PositionPostModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Api\\Models\\PositionPostModel.cs",
+              "RelativeToolTip": "WorkersManagment.Api\\Models\\PositionPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:48:59.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PositionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\OrkersManagment.Data\\Repositories\\PositionRepository.cs",
+              "RelativeDocumentMoniker": "OrkersManagment.Data\\Repositories\\PositionRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\OrkersManagment.Data\\Repositories\\PositionRepository.cs",
+              "RelativeToolTip": "OrkersManagment.Data\\Repositories\\PositionRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:33:47.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPositionWorkerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Core\\Repositories\\IPositionWorkerRepository.cs",
+              "RelativeDocumentMoniker": "WorkersManagment.Core\\Repositories\\IPositionWorkerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\WorkersManagment.Core\\Repositories\\IPositionWorkerRepository.cs",
+              "RelativeToolTip": "WorkersManagment.Core\\Repositories\\IPositionWorkerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:02:16.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PositionWorkerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\OrkersManagment.Data\\Repositories\\PositionWorkerRepository.cs",
+              "RelativeDocumentMoniker": "OrkersManagment.Data\\Repositories\\PositionWorkerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Downloads\\proj\\WorkersManagment.Api\\OrkersManagment.Data\\Repositories\\PositionWorkerRepository.cs",
+              "RelativeToolTip": "OrkersManagment.Data\\Repositories\\PositionWorkerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:58:02.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
